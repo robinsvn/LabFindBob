@@ -22,6 +22,7 @@ namespace LabFindBob
             }
             Console.WriteLine("{0}" + " Found " + "{1}" + " Times", word, count);
             Console.ReadLine();
+
         }
     }
 }
